@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HesapMakinasi:jar">
+    <output-path>$USER_HOME$/Desktop/Hesap_Makinası</output-path>
+    <root id="archive" name="HesapMakinasi.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/Hesap_Makinası/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="HesapMakinasi" />
+    </root>
+  </artifact>
+</component>
