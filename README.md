@@ -10,7 +10,6 @@ ikili(Binary), sekizli (Octal) ve on altılı(Hexa Decimal) tabanlarında sayıl
 - **Aşşağıdaki Fotoğrafa Tıklayarak Kurulum Ve Tanıtım Videosuna Ulaşabilirsiniz.**
 
 [![Kurulum ve Tanıtım Videosu](https://github.com/Soresta/Calculator_App_With_Java_Swing/assets/112137968/dd5d7f51-de69-499c-b1a4-9cca84ff8ae1)
-
 ](https://youtu.be/jtl4K19gNQM?si=qYHgFEJQoYW5FAC2)
 
 ### Gereksinimler
